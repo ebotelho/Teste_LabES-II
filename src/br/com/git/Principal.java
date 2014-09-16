@@ -16,7 +16,7 @@ public class Principal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Utilizando o GitHub através do NetBeans");
+        System.out.print("Utilizando o GitHub através do NetBeans-----");
             }
     
 }
