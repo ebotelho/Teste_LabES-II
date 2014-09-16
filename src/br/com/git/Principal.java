@@ -17,7 +17,6 @@ public class Principal {
      */
     public static void main(String[] args) {
         System.out.print("Utilizando o GitHub através do NetBeans");
-        int x = 10;
-    }
+            }
     
 }
